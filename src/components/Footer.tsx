@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <h4 className="text-xl font-semibold mb-4">About Us</h4>
           <p className="text-sm text-gray-400 leading-relaxed ">
             We bring the finest musical instruments to your doorstep.
-            Whether you're a beginner or a pro, we are here to support your musical journey.
+            Whether you are a beginner or a pro, we are here to support your musical journey.
           </p>
         </div>
 
