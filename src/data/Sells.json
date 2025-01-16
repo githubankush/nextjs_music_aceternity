@@ -1,0 +1,142 @@
+{
+    "musicalCourses": [
+      {
+        "id": 1,
+        "title": "Beginner Guitar Lessons",
+        "description": "Learn the basics of playing guitar, including chords, strumming, and simple songs.",
+        "level": "Beginner",
+        "duration": "6 weeks",
+        "price": 99,
+        "instructor": "John Smith",
+        "image": "/images/guitar.jpg",
+        "rating": 4.8,
+        "topics": [
+          "Introduction to Guitar",
+          "Basic Chords",
+          "Strumming Techniques",
+          "Playing Simple Songs"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Advanced Piano Techniques",
+        "description": "Master advanced piano techniques and learn to play complex compositions.",
+        "level": "Advanced",
+        "duration": "12 weeks",
+        "price": 199,
+        "instructor": "Emily Johnson",
+        "image": "/images/piano.jpg",
+        "rating": 4.9,
+        "topics": [
+          "Advanced Scales",
+          "Chord Progressions",
+          "Improvisation",
+          "Playing Classical Pieces"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Drumming Essentials",
+        "description": "A comprehensive guide to mastering the drums, from basics to advanced rhythms.",
+        "level": "Intermediate",
+        "duration": "8 weeks",
+        "price": 149,
+        "instructor": "Michael Lee",
+        "image": "/images/drums.jpg",
+        "rating": 4.7,
+        "topics": [
+          "Drumming Basics",
+          "Rhythm and Timing",
+          "Drum Fills",
+          "Advanced Drum Patterns"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Singing for Beginners",
+        "description": "Learn vocal techniques and improve your singing voice in this beginner-friendly course.",
+        "level": "Beginner",
+        "duration": "5 weeks",
+        "price": 89,
+        "instructor": "Sarah Brown",
+        "image": "/images/singing.jpg",
+        "rating": 4.6,
+        "topics": [
+          "Breathing Techniques",
+          "Vocal Warm-ups",
+          "Pitch Control",
+          "Singing Simple Songs"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Violin Masterclass",
+        "description": "Take your violin skills to the next level with this masterclass course.",
+        "level": "Advanced",
+        "duration": "10 weeks",
+        "price": 179,
+        "instructor": "David Taylor",
+        "image": "/images/violin.jpg",
+        "rating": 4.9,
+        "topics": [
+          "Advanced Bowing Techniques",
+          "Finger Placement",
+          "Playing Complex Pieces",
+          "Orchestral Performance Tips"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Music Theory 101",
+        "description": "Understand the fundamentals of music theory to enhance your musical knowledge.",
+        "level": "Beginner",
+        "duration": "4 weeks",
+        "price": 49,
+        "instructor": "Anna Wilson",
+        "image": "/images/music-theory.jpg",
+        "rating": 4.5,
+        "topics": [
+          "Introduction to Music Theory",
+          "Reading Sheet Music",
+          "Scales and Chords",
+          "Basic Harmony"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Guitar Essentials",
+        "description": "Learn the basics of guitar playing and start strumming your favorite tunes.",
+        "level": "Beginner",
+        "duration": "6 weeks",
+        "price": 99,
+        "instructor": "Emily Harper",
+        "image": "/images/guitar.jpg",
+        "rating": 4.7,
+        "topics": [
+          "Basic Chords and Strumming",
+          "Fingerstyle Techniques",
+          "Playing Popular Songs",
+          "Tuning and Guitar Care"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Jazz Piano Improvisation",
+        "description": "Master the art of improvisation with this specialized jazz piano course.",
+        "level": "Intermediate",
+        "duration": "8 weeks",
+        "price": 149,
+        "instructor": "Michael Roberts",
+        "image": "/images/jazz-piano.jpg",
+        "rating": 4.8,
+        "topics": [
+          "Jazz Chord Voicings",
+          "Improvisation Techniques",
+          "Understanding Swing Rhythm",
+          "Building Solos"
+        ]
+      }
+      
+    ]
+  }
+  

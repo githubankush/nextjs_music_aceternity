@@ -1,7 +1,13 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-
+import { Navbar } from "@/components/Navbar";
+import Home from "@/components/Home";
+import { Card } from "@/components/Card";
+import { ScrollComponent } from "@/components/ScrollComponent";
+import { ShootingStars } from "@/components/ui/shooting-stars";
+import { ShootingComponent } from "@/components/ShootingComponent";
+import { MeteorCard } from "@/components/MeteorCard";
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -24,9 +30,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        <Navbar />
+        <Home />
+        <Card />
+        <ScrollComponent />
+        <MeteorCard />
+        <ShootingComponent />
+        
         {children}
       </body>
     </html>

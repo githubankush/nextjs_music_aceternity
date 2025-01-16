@@ -1,0 +1,49 @@
+{
+  "instruments": [
+    {
+      "title": "Acoustic Guitar",
+      "description": "A timeless 6-string acoustic guitar that produces warm, rich tones. Perfect for beginners and seasoned musicians alike.",
+      "link": "/products/acoustic-guitar"
+    },
+    {
+      "title": "Electric Guitar",
+      "description": "A high-performance electric guitar with exceptional sound and playability. Ideal for rock, blues, and jazz enthusiasts.",
+      "link": "/products/electric-guitar"
+    },
+    {
+      "title": "Violin",
+      "description": "Crafted with precision, this violin delivers a powerful sound and comes with an ebony fingerboard and fittings.",
+      "link": "/products/violin"
+    },
+    {
+      "title": "Drum Set",
+      "description": "A professional 5-piece drum set complete with cymbals and hardware, perfect for live performances and studio sessions.",
+      "link": "/products/drum-set"
+    },
+    {
+      "title": "Digital Piano",
+      "description": "An elegant digital piano featuring weighted keys and advanced sound technology for a realistic playing experience.",
+      "link": "/products/digital-piano"
+    },
+    {
+      "title": "Flute",
+      "description": "A silver-plated flute with a smooth, clear tone. Great for orchestras, solo performances, and beginners.",
+      "link": "/products/flute"
+    },
+    {
+      "title": "Synthesizer",
+      "description": "A versatile synthesizer with built-in effects and MIDI compatibility for music production and live performances.",
+      "link": "/products/synthesizer"
+    },
+    {
+      "title": "Saxophone",
+      "description": "A beautifully crafted alto saxophone offering rich and dynamic tones. Ideal for jazz, classical, and pop music.",
+      "link": "/products/saxophone"
+    },
+    {
+      "title": "Ukulele",
+      "description": "A compact, lightweight ukulele with a bright, cheerful sound. Perfect for casual and professional musicians.",
+      "link": "/products/ukulele"
+    }
+  ]
+}
