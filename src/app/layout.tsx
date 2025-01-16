@@ -5,7 +5,6 @@ import { Navbar } from "@/components/Navbar";
 import Home from "@/components/Home";
 import { Card } from "@/components/Card";
 import { ScrollComponent } from "@/components/ScrollComponent";
-import { ShootingStars } from "@/components/ui/shooting-stars";
 import { ShootingComponent } from "@/components/ShootingComponent";
 import { MeteorCard } from "@/components/MeteorCard";
 const geistSans = Geist({

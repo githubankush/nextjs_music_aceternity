@@ -1,9 +1,6 @@
 "use client";
 import React from "react";
 import { ShootingStars } from "@/components/ui/shooting-stars";
-import courseData from "../data/music_data.json";
-import { div } from "framer-motion/client";
-import { HoverEffect } from "./ui/card-hover-effect";
 import Footer from "./Footer";
 
 export function ShootingComponent() {
